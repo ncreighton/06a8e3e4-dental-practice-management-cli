@@ -1,2 +1,25 @@
-# 06a8e3e4-dental-practice-management-cli
-Stop digging through disconnected spreadsheets and struggling to spot why your practice is losing patients — this template delivers a single, automated dashboard that surfaces the metrics that actually drive growth.  This Dental Practice Management Client Reporting Dashboard Template consolidates all your client reporting into one clean view, elimi
+# Dental Practice Management Client Reporting Dashboard Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi7sL3aL7Eo5tu0Ved0p0p)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi7sL3aL7Eo5tu0Ved0p0p)
+
